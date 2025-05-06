@@ -1,6 +1,6 @@
 # AAVE V3 Liquidation Strategy Bot
 
-![AAVE Liquidation Bot Banner](https://i.imgur.com/GQ8HvIE.png)
+![AAVE Liquidation Bot Banner](https://placehold.co/1200x400/0a0a3a/FFFFFF?text=AAVE+V3+Liquidation+Bot)
 
 ## Overview
 
@@ -8,7 +8,7 @@ This project implements an automated liquidation strategy for the AAVE V3 protoc
 
 ## Architecture
 
-![System Architecture](https://i.imgur.com/rKh1m3B.png)
+![System Architecture](https://placehold.co/1200x800/0a0a3a/FFFFFF?text=Liquidation+Bot+Architecture)
 
 The system consists of the following components:
 
@@ -22,7 +22,7 @@ The system consists of the following components:
 
 The liquidation profit comes from the liquidation bonus offered by the protocol. When a position is liquidated, the liquidator can purchase the collateral at a discount.
 
-![Liquidation Profit Mechanism](https://i.imgur.com/Nw3dJ5B.png)
+![Liquidation Profit Mechanism](https://placehold.co/1200x600/0a0a3a/FFFFFF?text=Liquidation+Profit+Mechanism)
 
 ## Flash Loan Guide
 
@@ -51,7 +51,7 @@ Key parameters:
 
 ### Optimal Flash Loan Usage
 
-![Flash Loan Flow](https://i.imgur.com/MQWLgKA.png)
+![Flash Loan Flow](https://placehold.co/1200x600/0a0a3a/FFFFFF?text=Flash+Loan+Liquidation+Flow)
 
 For optimal flash loan usage in liquidations:
 
